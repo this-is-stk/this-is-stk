@@ -1,4 +1,5 @@
 #!/bin/bash
+sleep 3m
 dpkg --configure -a
 apt-get -y update
 
